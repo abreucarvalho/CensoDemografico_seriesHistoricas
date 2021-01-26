@@ -1,0 +1,13 @@
+---
+title: "Documentação - Séries Históricas Censos Demográficos"
+author: "Rodrigo Abreu Carvalho"
+date: "26/01/2021"
+output: html_document
+---
+
+***
+
+# SIDRA IBGE
+
+Fonte: https://sidra.ibge.gov.br/pesquisa/censo-demografico/series-temporais/series-temporais/
+
