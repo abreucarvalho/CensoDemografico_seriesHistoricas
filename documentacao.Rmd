@@ -11,3 +11,6 @@ output: html_document
 
 Fonte: https://sidra.ibge.gov.br/pesquisa/censo-demografico/series-temporais/series-temporais/
 
+
+ Séries completas (1872 - 2010)
+ 
